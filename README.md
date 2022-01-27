@@ -38,5 +38,5 @@ python3 whois.py [ip or host]
 ```
 #### Example
 ```ps 
-python3 Whois.py 127.0.0.1
+python3 whois.py 127.0.0.1
 ```
