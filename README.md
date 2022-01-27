@@ -30,11 +30,11 @@ pip install ipwhois
 ### Usage
 #### In Windows
 ```ps 
-python Whois.py [ip or host]
+python whois.py [ip or host]
 ```
 #### In Linux
 ```ps 
-python3 Whois.py [ip or host]
+python3 whois.py [ip or host]
 ```
 #### Example
 ```ps 
